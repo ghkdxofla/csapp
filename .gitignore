@@ -1,2 +1,5 @@
 # Ignore the bomb.tar file
 bomb.tar
+
+# Ignore the input file
+input
