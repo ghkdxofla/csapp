@@ -56,6 +56,7 @@ End of assembler dump.
 ...
 Welcome to my fiendish little bomb. You have 6 phases with
 which to blow yourself up. Have a nice day!
+Phase 1 defused. How about the next one?
 ...
 (gdb) stepi  # Step into the phase_2 function
 # refer the function <read_six_numbers> and check `add` instruction
