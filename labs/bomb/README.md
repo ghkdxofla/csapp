@@ -43,8 +43,21 @@ cd labs/bomb/src
 gdb bomb --tui
 ```
 
+## Run the Bomb
+You have to create the empty input file before running the bomb.   
+Add solutions to the input file to defuse the bomb.
+```bash
+# Create the empty input file
+touch input
+
+# Run the bomb
+cd labs/bomb/src
+./bomb <input>
+```
+
 ## Phases
 - [Phase 1](./phases/phase_1/README.md)
+- [Phase 2](./phases/phase_2/README.md)
 
 ## Reference
 - [Bomb Lab README](https://csapp.cs.cmu.edu/3e/README-bomblab)

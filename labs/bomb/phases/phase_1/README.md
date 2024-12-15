@@ -46,6 +46,11 @@ which to blow yourself up. Have a nice day!
 {ANSWER}
 ```
 
+### Save the answer
+```bash
+echo {ANSWER} >> input
+```
+
 ### Input the answer
 <details>
 <summary>🚨 Spoiler Alert! 🚨</summary>
@@ -54,4 +59,3 @@ which to blow yourself up. Have a nice day!
 Border relations with Canada have never been better.
 ```
 </details>
-
