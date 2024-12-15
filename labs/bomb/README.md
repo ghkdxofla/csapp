@@ -58,6 +58,9 @@ cd labs/bomb/src
 ## Phases
 - [Phase 1](./phases/phase_1/README.md)
 - [Phase 2](./phases/phase_2/README.md)
+- [Phase 3](./phases/phase_3/README.md)
+- [Phase 4](./phases/phase_4/README.md)
+- [Phase 5](./phases/phase_5/README.md)
 
 ## Reference
 - [Bomb Lab README](https://csapp.cs.cmu.edu/3e/README-bomblab)

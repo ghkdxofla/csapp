@@ -1,7 +1,7 @@
-# Bomb Lab Phase 3
-To defuse the bomb, we need to find the correct input for the phase 1.
+# Bomb Lab Phase 4
+To defuse the bomb, we need to find the correct input for the phase 4.
 ## Defuse
-### Find the Phase 3 Function
+### Find the Phase 4 Function
 In dumped files,
 `phase_4`
 ```asm

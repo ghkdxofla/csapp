@@ -1,5 +1,5 @@
 # Bomb Lab Phase 2
-To defuse the bomb, we need to find the correct input for the phase 1.
+To defuse the bomb, we need to find the correct input for the phase 2.
 ## Defuse
 ### Find the Phase 2 Function
 In dumped files,
