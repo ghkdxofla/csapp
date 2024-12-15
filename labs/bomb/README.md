@@ -38,7 +38,9 @@ objdump -d --visualize-jumps bomb > bomb.asm
 #### Examine the Bomb
 ```bash
 cd labs/bomb/src
-gdb bomb
+
+# with tui
+gdb bomb --tui
 ```
 
 ## Phases
