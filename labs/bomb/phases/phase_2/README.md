@@ -58,9 +58,9 @@ Welcome to my fiendish little bomb. You have 6 phases with
 which to blow yourself up. Have a nice day!
 ...
 (gdb) stepi  # Step into the phase_2 function
-# ...until the function <strings_not_equal> is called
+# refer the function <read_six_numbers> and check `add` instruction
 ...
-(gdb) x/s 0x402400  # Print the value of esi
+(gdb) x/s p $eax  # Print the value of eax
 ...
 {ANSWER}
 ```
@@ -75,7 +75,7 @@ echo {ANSWER} >> input
 <summary>🚨 Spoiler Alert! 🚨</summary>
 
 ```
-Border relations with Canada have never been better.
+1 2 4 8 16 32
 ```
 </details>
 
